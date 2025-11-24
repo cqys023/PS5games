@@ -1,0 +1,4 @@
+name = "ps-vr-worker"
+main = "index.js"            # 指向你的 Worker 脚本
+type = "javascript"
+compatibility_date = "2025-11-24"
